@@ -1,0 +1,1 @@
+Need to add the intro screen for first time users, need to add more methods to storage (like if project is switched need to refresh everything to make sure data is accurate)
